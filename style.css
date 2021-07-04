@@ -19,8 +19,7 @@ h2{
 .half-width{
     width: 40%;
     padding-left: 2%;
-    margin-left: 5%;
-    box-shadow: 10px 0px green;
+    margin-left: 5%; 
 }
 .half-width img{
     width: 100%;
